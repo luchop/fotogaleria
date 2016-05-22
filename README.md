@@ -9,6 +9,8 @@ El plugin original es de Michael Soriano (http://michaelsoriano.com/) y las modi
  * botones para los links "anterior" y "siguiente" y posicionado a izquierda y derecha (aparente 'bug' en el original)
  * dos variables para configurar el texto de los botones "previous" y "next"
  
+Demo online: http://oficinaenlared.com/demogaleria/index.html
+ 
 ###Modo de uso:
 
 Asegurese de incluir los archivos requeridos antes del plugin.
@@ -44,3 +46,4 @@ $('ul.first').bsPhotoGallery({
 
 Si usted necesita mostrar una imagen diferente en la caja modal, es necesario añadir el atributo extra para la imagen "data-bsp-large-src" con el valor de la ruta a la imagen.
 
+Luis Paez Rocha
